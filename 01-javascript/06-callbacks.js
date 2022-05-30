@@ -4,7 +4,7 @@ const fs = require('fs');
 console.log('PRIMERO')
 // 1) Leer el archivo: 06-ejemplo.txt, luego imprimir en consola
 // 2) Después del paso 1, Leer el archivo: 01-variables.js, luego imprimir en consola
-// 3) Xrear un nuevo archivo llamdo 06-nuevo.archivo.js
+// 3) Crear un nuevo archivo llamdo 06-nuevo.archivo.js
 
 fs.readFile(
     './06-ejemplo.txt', //1
