@@ -1,7 +1,3 @@
-
-
-
-
 const inquirer = require('inquirer');
 async function main(){
     try{
