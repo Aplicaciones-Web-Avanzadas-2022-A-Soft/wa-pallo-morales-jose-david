@@ -1,3 +1,7 @@
+/* styles/global.css*/
 body{
     background-color: beige;
 }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
